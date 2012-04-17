@@ -1,0 +1,7 @@
+1) Download it
+2) Put it on your Linux/Unix server
+3) Compile it with: cc -Wall main.c
+4) Launch it listening the port you want as parameter (Ex: Port 5555): ./a.out 5555
+5) Telnet it to get your IP
+
+You're done.
